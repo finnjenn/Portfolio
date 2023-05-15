@@ -186,12 +186,13 @@ body {
     display:block;
     margin: 1rem auto;
     margin-top: 2rem;
-    padding: 1rem 2rem;
+    padding: 1rem 3rem;
     background-color: #4A7C59;
     color: white;
     border: none;
     border-radius: 1rem;
     font-size: 110%;
+    font-weight: 700;
     box-shadow: 0 5px 5px rgb(100, 100, 100);
     transition: 300ms ease-in-out;
 }
