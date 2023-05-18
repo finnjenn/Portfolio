@@ -218,19 +218,18 @@ body {
   color: #68b0ab;
   background-color: transparent;
   border-radius: 50%;
-  position: fixed;
+  position: absolute;
   transition: 300ms ease-in-out;
   cursor: pointer;
 }
 #github {
-  /* bottom: 60px; */
-  bottom: 3px;
+  top: 70px;
   right: 2px;
 }
-/* #twitter {
-    bottom: 3px;
-    right: 0;
-} */
+#twitter {
+  top: 130px;
+  right: 0;
+}
 #github:hover,
 #twitter:hover {
   transform: scale(1.1);
