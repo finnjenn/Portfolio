@@ -89,6 +89,7 @@ body {
   width: 25rem;
   margin: 0 1rem;
   margin-bottom: 4rem;
+  /* text-align: center; */
 }
 .projects-box h2 {
   font-size: 2rem;
@@ -96,11 +97,11 @@ body {
   letter-spacing: 3px;
 }
 .projects-box p {
-  margin-bottom: 2rem;
   height: 3rem;
+  margin: 0 1.5rem;
+  margin-bottom: 2rem;
   line-height: 130%;
   letter-spacing: 2px;
-  /* text-align: left; */
 }
 .project-img {
   width: 25rem;
