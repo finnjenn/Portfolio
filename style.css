@@ -67,6 +67,11 @@ body {
   margin-top: 3rem;
   box-shadow: 5px 5px 10px rgb(75, 75, 75);
 }
+#projects-link {
+  position: relative;
+  bottom: 1rem;
+  /* left: 0; */
+}
 #projects {
   padding-top: 3rem;
   background-color: #faf3dd;
