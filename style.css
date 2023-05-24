@@ -270,4 +270,8 @@ body {
   #contact {
     scroll-margin: 13rem;
   }
+  #about-text,
+  #contact-text {
+    width: 90%;
+  }
 }
