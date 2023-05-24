@@ -67,15 +67,11 @@ body {
   margin-top: 3rem;
   box-shadow: 5px 5px 10px rgb(75, 75, 75);
 }
-#projects-link {
-  position: relative;
-  bottom: 1rem;
-  /* left: 0; */
-}
 #projects {
   padding-top: 3rem;
   background-color: #faf3dd;
   text-align: center;
+  scroll-margin-top: 3rem;
 }
 #projects h1 {
   font-size: 3rem;
@@ -147,6 +143,7 @@ body {
   background-color: #8fc0a9;
   display: flex;
   justify-content: space-evenly;
+  scroll-margin-top: 3rem;
 }
 #skillsbox p {
   padding: 2rem 1rem;
@@ -166,6 +163,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  scroll-margin-top: 3rem;
 }
 #about-text {
   width: 25rem;
@@ -182,6 +180,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  scroll-margin-top: 3rem;
 }
 #contact-text {
   width: 25rem;
