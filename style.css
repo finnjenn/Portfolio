@@ -263,3 +263,11 @@ body {
     width: 40px;
   }
 }
+@media (max-width: 565px) {
+  #projects,
+  #skillsbox,
+  #about,
+  #contact {
+    scroll-margin: 13rem;
+  }
+}
