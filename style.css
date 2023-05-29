@@ -39,6 +39,7 @@ body {
   margin-left: -20%;
   padding-top: 3rem;
   padding-left: 2rem;
+  scroll-margin-top: 4rem;
 }
 #subheader {
   width: 90%;
@@ -262,14 +263,15 @@ body {
   #twitter {
     width: 40px;
   }
-}
-@media (max-width: 565px) {
+  #header,
   #projects,
   #skillsbox,
   #about,
   #contact {
-    scroll-margin: 13rem;
+    scroll-margin: 15rem;
   }
+}
+@media (max-width: 565px) {
   #about-text,
   #contact-text {
     width: 90%;
