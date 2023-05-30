@@ -230,11 +230,11 @@ body {
 }
 #github {
   top: 70px;
-  right: 2px;
+  right: 10px;
 }
 #twitter {
   top: 130px;
-  right: 0;
+  right: 8px;
 }
 #github:hover,
 #twitter:hover {
