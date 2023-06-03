@@ -49,6 +49,7 @@ body {
   margin-left: -20%;
   padding-top: 3rem;
   padding-left: 2.1rem;
+  line-height: 130%;
 }
 #header.show,
 #subheader.show {
