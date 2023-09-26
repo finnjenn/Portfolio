@@ -221,24 +221,24 @@ body {
   box-shadow: none;
 }
 #github,
-#twitter {
+#resume {
   color: #68b0ab;
   background-color: transparent;
-  border-radius: 50%;
   position: absolute;
   transition: 300ms ease-in-out;
   cursor: pointer;
 }
 #github {
+  border-radius: 50%;
   top: 70px;
   right: 10px;
 }
-#twitter {
+#resume {
   top: 130px;
   right: 8px;
 }
 #github:hover,
-#twitter:hover {
+#resume:hover {
   transform: scale(1.1);
 }
 @media (max-width: 850px) {
@@ -261,7 +261,7 @@ body {
     width: 100%;
   }
   #github,
-  #twitter {
+  #resume {
     width: 40px;
   }
   #header,
